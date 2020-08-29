@@ -1,1 +1,1 @@
-this is my first text file
+Week one Assignment intro to SQL for Data Analytics CRN221
